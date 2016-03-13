@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+All the time. Local files aren't safe, but also there may be need to work on files from multiple locations.
